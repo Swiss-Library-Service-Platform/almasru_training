@@ -1,0 +1,4 @@
+lxml
+almasru
+scikit-learn
+dedupmarcxml

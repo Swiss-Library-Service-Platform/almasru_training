@@ -1,0 +1,34 @@
+# Logs
+log/
+*.log
+
+# Requests
+requests/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.env/
+.venv/
+ENV/
+env/
+
+# Byte-compiled files
+*.pyo
+*.pyd
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Other automatically generated files
+*.tmp
+*.bak
+*.swp
